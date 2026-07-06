@@ -1,7 +1,8 @@
 //ARAM_Toggle_Actuator Library      -  Jack Serlin                rev: 6/30/2026               A.R.A.M. - American Robotics Assisted Manufacturing
 
-#ifndef ARAM_MOTCA_0
-#define ARAM_MOTCA_0
+#include "ARAM_Toggle_Actuator.h";
+#ifndef ARAM_ORCHESTRA_0
+#define ARAM_ORCHESTRA_0
 
 #if defined(ESP32)
   #include <soc/gpio_reg.h>
